@@ -1,5 +1,5 @@
 # Job Finder App UI - SwiftUI
 
-Hi, i am totally new on swift and i think SwiftUI would be a good option. 
+Hi, i am totally new on swift and i think SwiftUI would be a good option... 
 
 ![App UI](/intro.gif)
